@@ -12,6 +12,7 @@
 		78FB526B19A7E80A007E2F37 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 78FB526919A7E80A007E2F37 /* Main.storyboard */; };
 		78FB526D19A7E80A007E2F37 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 78FB526C19A7E80A007E2F37 /* Images.xcassets */; };
 		78FB527919A7E80A007E2F37 /* AVAudioPlayerNodePlayPauseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78FB527819A7E80A007E2F37 /* AVAudioPlayerNodePlayPauseTests.swift */; };
+		78FB528319A7E937007E2F37 /* I.Allegro.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 78FB528219A7E937007E2F37 /* I.Allegro.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +35,7 @@
 		78FB527219A7E80A007E2F37 /* AVAudioPlayerNodePlayPauseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AVAudioPlayerNodePlayPauseTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		78FB527719A7E80A007E2F37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		78FB527819A7E80A007E2F37 /* AVAudioPlayerNodePlayPauseTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AVAudioPlayerNodePlayPauseTests.swift; sourceTree = "<group>"; };
+		78FB528219A7E937007E2F37 /* I.Allegro.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = I.Allegro.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 		78FB526319A7E80A007E2F37 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				78FB528219A7E937007E2F37 /* I.Allegro.mp3 */,
 				78FB526419A7E80A007E2F37 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -189,6 +192,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				78FB528319A7E937007E2F37 /* I.Allegro.mp3 in Resources */,
 				78FB526B19A7E80A007E2F37 /* Main.storyboard in Resources */,
 				78FB526D19A7E80A007E2F37 /* Images.xcassets in Resources */,
 			);
